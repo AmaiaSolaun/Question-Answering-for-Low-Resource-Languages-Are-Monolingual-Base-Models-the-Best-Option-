@@ -23,29 +23,34 @@ Agerri, R., Vicente, I.S., Campos, J.A., Barrena, A., Saralegi, X.,
 Soroa, A. and Agirre, E., 2020. Give your text representation
 models some love: the case for basque. arXiv preprint
 arXiv:2004.00033.
+
 Agerri, R. and Agirre, E., 2022. Lessons learned from the
 evaluation of Spanish Language Models. arXiv preprint
 arXiv:2212.08390.
+
 Agirre, E., 2020, May. Conversational question answering in low
 resource scenarios: A dataset and case study for basque.
 In Proceedings of the Twelfth Language Resources and
 Evaluation Conference (pp. 436-442).
+
 Armengol-Estapé, J., Carrino, C.P., Rodriguez-Penagos, C.,
 Bonet, O.D.G., Armentano-Oller, C., Gonzalez-Agirre, A.,
 Melero, M. and Villegas, M., 2021. Are multilingual models the
 best choice for moderately under-resourced languages? A
 comprehensive assessment for Catalan. arXiv preprint
 arXiv:2107.07903.
+
 d'Hoffschmidt, M., Belblidia, W., Brendlé, T., Heinrich, Q. and
 Vidal, M., 2020. FQuAD: French question answering
 dataset. arXiv preprint arXiv:2002.06071.
+
 Martin, L., Muller, B., Suárez, P.J.O., Dupont, Y., Romary, L., de
 La Clergerie, É.V., Seddah, D. and Sagot, B., 2019.
 CamemBERT: a tasty French language model. arXiv preprint
 arXiv:1911.03894.
 
+
 Otegi, A., Agirre, A., Campos, J.A., Soroa, A. and Rodriguez-
 Penagos, C., Armentano-Oller, C., Villegas, M., Melero, M.,
-
 Gonzalez, A., Bonet, O.D.G. and Pio, C.C., 2021. The catalan
 language CLUB. arXiv preprint arXiv:2112.01894.
