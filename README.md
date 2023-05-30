@@ -1,4 +1,4 @@
-# Question-Answering-for-Low-Resource-Languages-Are-Monolingual-Base-Models-the-Best-Option-
+# Question Answering for Low-Resource Languages: Are Monolingual Base Models the Best Option?
 
 ## Description of the project
 When researchers for low-resource languages train monolingual models for their language, they tend to use base size models. Consequently, when they evaluate the performance of the model, they compare it with a base size multilingual model (among other base size models). Results show that, in this setting, monolingual models tend to outperform multilingual ones in most NLP tasks (e.g., Agerri et al., 2020; Martin et al., 2020; Armengol-Estapé et al., 2021). However, Agerri and Agirre (2022) recently found that large multilingual models can outperform monolingual base models in various NLP tasks in Spanish, one of them being Question Answering (QA). Agerri and Agirre (2022) report that XLM-RoBERTa improves over the results of five monolingual and four multilingual base models for QA. Thus, for this project we followed this finding and explored whether a large multilingual model can outperform base monolingual models for low-resource languages.
