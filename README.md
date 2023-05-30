@@ -9,9 +9,9 @@ For this purpose, we fine-tuned a total of 9 language models, 3 for each of the 
 
 | language | monolingual base model | multilingual base model | multilingual base model | dataset          |
 |----------|------------------------|-------------------------|-------------------------|------------------|
-| catalan  | [BERTa](https://huggingface.co/projecte-aina/roberta-base-ca-v2)                  | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL](https://huggingface.co/xlm-roberta-large)            | ViquiQuAD-v2     |
-| basque   | [BERTeus](https://huggingface.co/ixa-ehu/berteus-base-cased)                | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL](https://huggingface.co/xlm-roberta-large)           | ElkarHizketak-v1 |
-| french   | [CamemBERT](https://huggingface.co/camembert-base)              | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL](https://huggingface.co/xlm-roberta-large)           | FQuAD-v1         |
+| catalan  | [BERTa](https://huggingface.co/projecte-aina/roberta-base-ca-v2)                  | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL](https://huggingface.co/xlm-roberta-large)            | [ViquiQuAD-v2](https://huggingface.co/datasets/projecte-aina/viquiquad)     |
+| basque   | [BERTeus](https://huggingface.co/ixa-ehu/berteus-base-cased)                | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL](https://huggingface.co/xlm-roberta-large)           |  [ElkarHizketak-v1](http://ixa.si.ehu.es/node/12934) |
+| french   | [CamemBERT](https://huggingface.co/camembert-base)              | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL](https://huggingface.co/xlm-roberta-large)           | [FQuAD-v1](https://huggingface.co/datasets/fquad)         |
 
 In this github we also make available the notebooks used to fine-tune the models, which are based on the [Huggingface tutorial](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb) for fine-tuning transformer for QA tasks.
 
