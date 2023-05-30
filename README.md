@@ -15,8 +15,11 @@ For this purpose, we fine-tuned a total of 9 language models, 3 for each of the 
 
 In this github we also make available the notebooks used to fine-tune the models, which are based on the [Huggingface tutorial](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb) for fine-tuning transformer for QA tasks.
 
+## Data
+The datasets we used are also available in this repository, under the [data](https://github.com/AmaiaSolaun/Question-Answering-for-Low-Resource-Languages-Are-Monolingual-Base-Models-the-Best-Option-/tree/main/data) folder.
+
 ## Results
-We have collected the results obtain in .csv files to make simplify the comparison and analysis of the results. We make those results available in this github in the [Results](https://github.com/AmaiaSolaun/Question-Answering-for-Low-Resource-Languages-Are-Monolingual-Base-Models-the-Best-Option-/tree/main/Results) folder.
+We have collected the results obtain in .csv files to simplify the comparison and analysis of the results. We make those results available in this repository, under the [results](https://github.com/AmaiaSolaun/Question-Answering-for-Low-Resource-Languages-Are-Monolingual-Base-Models-the-Best-Option-/tree/main/Results) folder.
 
 ## References
 Agerri, R., Vicente, I.S., Campos, J.A., Barrena, A., Saralegi, X.,
