@@ -9,9 +9,9 @@ For this purpose, we fine-tuned a total of 9 language models, 3 for each of the 
 
 | language | monolingual base model | multilingual base model | multilingual base model | dataset          |
 |----------|------------------------|-------------------------|-------------------------|------------------|
-| catalan  | BERTa                  | XML-RoBERTa-base        | XLM-RoBERTaL            | ViquiQuAD-v2     |
-| basque   | BERTeus                | XML-RoBERTa-base        | XLM-RoBERTaL            | ElkarHizketak-v1 |
-| french   | CamemBERT              | XML-RoBERTa-base        | XLM-RoBERTaL            | FQuAD-v1         |
+| catalan  | [BERTa](https://huggingface.co/projecte-aina/roberta-base-ca-v2)                  | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL]([XML-RoBERTa-base](https://huggingface.co/xlm-roberta-large))            | ViquiQuAD-v2     |
+| basque   | [BERTeus](https://huggingface.co/ixa-ehu/berteus-base-cased)                | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL]([XML-RoBERTa-base](https://huggingface.co/xlm-roberta-large))            | ElkarHizketak-v1 |
+| french   | [CamemBERT](https://huggingface.co/camembert-base)              | [XML-RoBERTa-base](https://huggingface.co/xlm-roberta-base)        | [XLM-RoBERTaL]([XML-RoBERTa-base](https://huggingface.co/xlm-roberta-large))            | FQuAD-v1         |
 
 
 
